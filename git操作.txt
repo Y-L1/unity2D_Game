@@ -1,4 +1,0 @@
-git add .	---------------->
-git commit -m"添加***“
-git pull
-git push
